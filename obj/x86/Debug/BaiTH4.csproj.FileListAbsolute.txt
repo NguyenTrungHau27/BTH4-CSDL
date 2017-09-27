@@ -1,0 +1,9 @@
+D:\LTCSDL\BaiTH4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LTCSDL\BaiTH4\obj\x86\Debug\BaiTH4.frmLogin.resources
+D:\LTCSDL\BaiTH4\obj\x86\Debug\BaiTH4.Properties.Resources.resources
+D:\LTCSDL\BaiTH4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LTCSDL\BaiTH4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LTCSDL\BaiTH4\bin\Debug\BaiTH4.exe
+D:\LTCSDL\BaiTH4\bin\Debug\BaiTH4.pdb
+D:\LTCSDL\BaiTH4\obj\x86\Debug\BaiTH4.exe
+D:\LTCSDL\BaiTH4\obj\x86\Debug\BaiTH4.pdb
